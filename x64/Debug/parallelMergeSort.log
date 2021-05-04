@@ -1,0 +1,3 @@
+﻿  parallelMergeSort.cpp
+C:\Users\Nikita\source\repos\parallelMergeSort\parallelMergeSort.cpp(56,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  parallelMergeSort.vcxproj -> C:\Users\Nikita\source\repos\parallelMergeSort\x64\Debug\parallelMergeSort.exe
